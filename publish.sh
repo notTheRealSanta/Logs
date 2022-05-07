@@ -1,7 +1,10 @@
 #!/bin/sh
 
 rm _build/static/css/custom.css
-cp custom.css _build/static/css/custom.css
+cp cp/custom.css _build/static/css/custom.css
+
+cp cp/Flammarion.png _build/static/img/logo.png
+
 git commit -am "Save uncommited changes (WIP)"
 git branch --delete --force gh-pages
 git checkout --orphan gh-pages
