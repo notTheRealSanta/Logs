@@ -1,0 +1,5 @@
+- logs of life
+- I am still adding things here from previous logs
+- start here...
+	- [[Understanding Money]]
+	- [[On Work]] a poem by [[Khalil Gibran]]
