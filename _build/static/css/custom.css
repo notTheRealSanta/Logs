@@ -1,0 +1,9 @@
+#left-sidebar {
+    display: none;
+}
+#left-menu {
+    display: none;
+}
+.ui__dropdown-trigger {
+    display: none;
+}
