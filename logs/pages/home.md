@@ -2,4 +2,5 @@
 - I am still adding things here from previous logs
 - start here...
 	- [[Understanding Money]]
-	- [[On Work]] a poem by [[Khalil Gibran]]
+	- [[May 8th, 2022]]
+-
