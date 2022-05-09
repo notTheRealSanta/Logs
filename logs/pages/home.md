@@ -1,6 +1,5 @@
 - logs of life
 - I am still adding things here from previous logs
 - start here...
-	- [[Understanding Money]]
 	- [[May 8th, 2022]]
--
+- this portion of the site is built using [Logseq](https://github.com/logseq/logseq)
