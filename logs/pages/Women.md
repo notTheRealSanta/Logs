@@ -4,10 +4,12 @@
 	- This is generally applicable to [[Homo Sapiens]] but is not always the case.
 - [[Overlapping Distribution]]
 	- Distribution of height among male and female
+	  collapsed:: true
 		- ![](https://rafalab.github.io/dsbook/book_files/figure-html/two-densities-one-plot-1.png){:height 271, :width 433}
 	- Distribution of [[Agreeableness]]
+	  collapsed:: true
 		- ![](https://static.scientificamerican.com/blogs/assets/Image/fpsyg-02-00178-g010(1).jpg){:height 347, :width 436}
 	-
-	- To understand characteristic difference between men and women, one must understand the distribution difference them.
+	- To understand psychological and physical difference between men and women, one must understand the distribution difference them.
 	- Why are the most despicable crimes done by men?
 		- Some observable effects takes places in the ends of these distributions. Therefore when looking at the overlapping distribution of female's and male's characteristic; you would find the extremes to be heavily biased.
