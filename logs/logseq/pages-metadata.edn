@@ -66,7 +66,7 @@
   :block/updated-at 1652007752301}
  {:block/name "home",
   :block/created-at 1651926437254,
-  :block/updated-at 1652008139118}
+  :block/updated-at 1652156892176}
  {:block/name "homo sapiens",
   :block/created-at 1651925869168,
   :block/updated-at 1651925869168}
@@ -85,12 +85,15 @@
  {:block/name "life partner",
   :block/created-at 1651983790531,
   :block/updated-at 1651983976609}
- {:block/name "may 7th, 2022",
-  :block/created-at 1651901850455,
-  :block/updated-at 1651926339675}
+ {:block/name "may 10th, 2022",
+  :block/created-at 1652156603106,
+  :block/updated-at 1652156603106}
  {:block/name "may 8th, 2022",
   :block/created-at 1651983502277,
   :block/updated-at 1652008238241}
+ {:block/name "may 9th, 2022",
+  :block/created-at 1652103614404,
+  :block/updated-at 1652103614404}
  {:block/name "meaning of life",
   :block/created-at 1652008767485,
   :block/updated-at 1652008786859}
@@ -106,9 +109,6 @@
  {:block/name "now",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
- {:block/name "on work",
-  :block/created-at 1651983557639,
-  :block/updated-at 1651983557639}
  {:block/name "overlapping distribution",
   :block/created-at 1651984085883,
   :block/updated-at 1651984085883}
@@ -127,6 +127,9 @@
  {:block/name "reason for reality",
   :block/created-at 1652008215014,
   :block/updated-at 1652008215014}
+ {:block/name "rules to be wealthy",
+  :block/created-at 1652156800401,
+  :block/updated-at 1652156800401}
  {:block/name "socrates",
   :block/created-at 1651925535451,
   :block/updated-at 1651925535451}
@@ -137,8 +140,8 @@
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
  {:block/name "understanding money",
-  :block/created-at 1651983557642,
-  :block/updated-at 1651983557642}
+  :block/created-at 1652156798409,
+  :block/updated-at 1652156851361}
  {:block/name "understanding others",
   :block/created-at 1652007752298,
   :block/updated-at 1652007752298}

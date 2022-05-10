@@ -1,0 +1,4 @@
+- As the universe gave birth to [[Life]], life gave birth to consciousness for reasons unknown.
+	- conscious beings probably have very high [fitness](https://en.wikipedia.org/wiki/Fitness_(biology)).
+- I'd go very far to argue that consciousness cannot exist without other conscious beings. Another way to put it is, without observability, consciousness cannot exist.
+- > Conflict exists strictly as an opportunity to raise our Consciousness - [[Carl Jung]]
