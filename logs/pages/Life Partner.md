@@ -1,3 +1,0 @@
-- will be the glass through which you will see the universe. they represent the universe to as you represent the universe to them.
-- Kevin Hale (YC) talks about building relationship with co-founder; lot of this is applicable to building relationship with a life partner [🔗](https://www.youtube.com/watch?v=30a5yFBd7Fo)
-- [[Women]]

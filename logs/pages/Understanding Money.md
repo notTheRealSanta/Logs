@@ -15,7 +15,7 @@
 - Gold Standard
 	- For 5000 years gold fascinated humankind. It was because the scarcity of gold was universal that gave gold the property of storage of wealth.
 	- In 1971, the convertibility of the US dollar to gold was [abolished](https://en.wikipedia.org/wiki/Nixon_shock) giving rise to the [fiat money](https://www.investopedia.com/terms/f/fiatmoney.asp)
-	- The only thing that keeps the value of the dollar and therefore of most currencies is **mutual trust**.
+	- The only thing that keeps the [[value]] of the dollar and therefore of most currencies is **mutual trust**.
 - Happiness
 	- Humans cannot be happy all their life
 		- without knowing sadness, one cannot understand happiness
@@ -48,4 +48,4 @@
 - Idea of Money
 	- It is important to understand that the world changes because of people and not money. It also important to recognize that money enables this medium of trust that incentives people to innovate and innovation leads to a better life. #[[21st Century Human]]
 	- The foundation of money is not of greed and exploitation (although historically it has been) but the foundation of money is that of _*sharing, trust, and collaboration*_.
-- **Money is more abstract than people think it is ( now more than ever ) while also being more important of a subject to understand than people think it’s ought to be.**
+- Money is more abstract than people think it is ( now more than ever ) while also being more important of a subject to understand than people think it’s ought to be.

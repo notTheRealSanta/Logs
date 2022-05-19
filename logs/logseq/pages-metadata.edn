@@ -10,6 +10,9 @@
  {:block/name "ai",
   :block/created-at 1651925869169,
   :block/updated-at 1651925869169}
+ {:block/name "attention",
+  :block/created-at 1652188892953,
+  :block/updated-at 1652189156863}
  {:block/name "b",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
@@ -66,7 +69,7 @@
   :block/updated-at 1652007752301}
  {:block/name "home",
   :block/created-at 1651926437254,
-  :block/updated-at 1652156892176}
+  :block/updated-at 1652931898889}
  {:block/name "homo sapiens",
   :block/created-at 1651925869168,
   :block/updated-at 1651925869168}
@@ -88,15 +91,30 @@
  {:block/name "may 10th, 2022",
   :block/created-at 1652156603106,
   :block/updated-at 1652156603106}
+ {:block/name "may 11th, 2022",
+  :block/created-at 1652239107387,
+  :block/updated-at 1652239107387}
+ {:block/name "may 15th, 2022",
+  :block/created-at 1652602843993,
+  :block/updated-at 1652602843993}
+ {:block/name "may 17th, 2022",
+  :block/created-at 1652785547619,
+  :block/updated-at 1652931251589}
+ {:block/name "may 18th, 2022",
+  :block/created-at 1652892315023,
+  :block/updated-at 1652892414485}
+ {:block/name "may 19th, 2022",
+  :block/created-at 1652931092194,
+  :block/updated-at 1652931092194}
  {:block/name "may 8th, 2022",
   :block/created-at 1651983502277,
-  :block/updated-at 1652008238241}
+  :block/updated-at 1652602851948}
  {:block/name "may 9th, 2022",
   :block/created-at 1652103614404,
   :block/updated-at 1652103614404}
  {:block/name "meaning of life",
   :block/created-at 1652008767485,
-  :block/updated-at 1652008786859}
+  :block/updated-at 1652931978711}
  {:block/name "mind",
   :block/created-at 1652008146058,
   :block/updated-at 1652008146058}
@@ -112,6 +130,9 @@
  {:block/name "overlapping distribution",
   :block/created-at 1651984085883,
   :block/updated-at 1651984085883}
+ {:block/name "perception",
+  :block/created-at 1652188978490,
+  :block/updated-at 1652188978490}
  {:block/name "peter theil",
   :block/created-at 1652007072628,
   :block/updated-at 1652007072628}
@@ -121,12 +142,21 @@
  {:block/name "principles",
   :block/created-at 1652007743301,
   :block/updated-at 1652008017412}
+ {:block/name "racism",
+  :block/created-at 1652785736265,
+  :block/updated-at 1652785736265}
  {:block/name "reality",
   :block/created-at 1652007752300,
   :block/updated-at 1652007752300}
  {:block/name "reason for reality",
   :block/created-at 1652008215014,
   :block/updated-at 1652008215014}
+ {:block/name "reciprocal altruism",
+  :block/created-at 1652189974316,
+  :block/updated-at 1652189990779}
+ {:block/name "reciprocity",
+  :block/created-at 1652189990775,
+  :block/updated-at 1652189990775}
  {:block/name "rules to be wealthy",
   :block/created-at 1652156800401,
   :block/updated-at 1652156800401}
@@ -135,19 +165,25 @@
   :block/updated-at 1651925535451}
  {:block/name "sunk cost",
   :block/created-at 1652007752305,
-  :block/updated-at 1652007752305}
+  :block/updated-at 1652239442451}
+ {:block/name "super-organism",
+  :block/created-at 1652239133454,
+  :block/updated-at 1652239322035}
  {:block/name "todo",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
  {:block/name "understanding money",
   :block/created-at 1652156798409,
-  :block/updated-at 1652156851361}
+  :block/updated-at 1652931216218}
  {:block/name "understanding others",
   :block/created-at 1652007752298,
   :block/updated-at 1652007752298}
  {:block/name "universe",
   :block/created-at 1652008146058,
   :block/updated-at 1652008146058}
+ {:block/name "value",
+  :block/created-at 1652931146465,
+  :block/updated-at 1652931146465}
  {:block/name "viktor e frankl",
   :block/created-at 1652008786858,
   :block/updated-at 1652008786858}
