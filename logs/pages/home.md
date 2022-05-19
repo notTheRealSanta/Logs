@@ -3,4 +3,3 @@
 - start here...
 	- [[Meaning of Life]]
 - this portion of the site was made using [logseq](https://github.com/logseq/logseq)
-- > For the meaning of life differs from man to man, from day to day and from hour to hour. What matters, therefore, is not the meaning of life in general but rather the specific meaning of a person's life at a given moment. To put the question in general terms would be comparable to the question posed to a chess champion: Tell me Master what is the best move in the world? - [[Viktor E Frankl]]
