@@ -4,36 +4,15 @@
  {:block/name "a",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
- {:block/name "agreeableness",
-  :block/created-at 1651984802389,
-  :block/updated-at 1651984802389}
- {:block/name "ai",
-  :block/created-at 1651925869169,
-  :block/updated-at 1651925869169}
- {:block/name "attention",
-  :block/created-at 1652188892953,
-  :block/updated-at 1652189156863}
  {:block/name "b",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
- {:block/name "book",
-  :block/created-at 1652007065524,
-  :block/updated-at 1652007065524}
  {:block/name "c",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
- {:block/name "capitalism",
-  :block/created-at 1652007075862,
-  :block/updated-at 1652007075862}
  {:block/name "card",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
- {:block/name "carl jung",
-  :block/created-at 1652008654118,
-  :block/updated-at 1652008654118}
- {:block/name "competition",
-  :block/created-at 1652007075868,
-  :block/updated-at 1652007075868}
  {:block/name "consciousness",
   :block/created-at 1652008146059,
   :block/updated-at 1652008654119}
@@ -43,30 +22,15 @@
  {:block/name "daniel kahneman",
   :block/created-at 1651925913777,
   :block/updated-at 1651925913777}
- {:block/name "debt",
-  :block/created-at 1652008882899,
-  :block/updated-at 1652008882899}
  {:block/name "doing",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
  {:block/name "done",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
- {:block/name "education",
-  :block/created-at 1652007075867,
-  :block/updated-at 1652007075867}
- {:block/name "expectations",
-  :block/created-at 1652007752300,
-  :block/updated-at 1652007752300}
  {:block/name "favorites",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
- {:block/name "first principles",
-  :block/created-at 1652007075855,
-  :block/updated-at 1652007075855}
- {:block/name "happiness",
-  :block/created-at 1652007752301,
-  :block/updated-at 1652007752301}
  {:block/name "home",
   :block/created-at 1651926437254,
   :block/updated-at 1652931898889}
@@ -76,108 +40,36 @@
  {:block/name "in-progress",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
- {:block/name "khalil gibran",
-  :block/created-at 1651925789178,
-  :block/updated-at 1651925789178}
  {:block/name "later",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
  {:block/name "life",
   :block/created-at 1652008146057,
   :block/updated-at 1652008767486}
- {:block/name "life partner",
-  :block/created-at 1651983790531,
-  :block/updated-at 1651983976609}
- {:block/name "may 10th, 2022",
-  :block/created-at 1652156603106,
-  :block/updated-at 1652156603106}
- {:block/name "may 11th, 2022",
-  :block/created-at 1652239107387,
-  :block/updated-at 1652239107387}
- {:block/name "may 15th, 2022",
-  :block/created-at 1652602843993,
-  :block/updated-at 1652602843993}
- {:block/name "may 17th, 2022",
-  :block/created-at 1652785547619,
-  :block/updated-at 1652931251589}
- {:block/name "may 18th, 2022",
-  :block/created-at 1652892315023,
-  :block/updated-at 1652892414485}
  {:block/name "may 19th, 2022",
-  :block/created-at 1652931092194,
-  :block/updated-at 1652931092194}
+  :block/created-at 1652933840041,
+  :block/updated-at 1652933840041}
  {:block/name "may 8th, 2022",
   :block/created-at 1651983502277,
   :block/updated-at 1652602851948}
- {:block/name "may 9th, 2022",
-  :block/created-at 1652103614404,
-  :block/updated-at 1652103614404}
  {:block/name "meaning of life",
   :block/created-at 1652008767485,
   :block/updated-at 1652931978711}
  {:block/name "mind",
   :block/created-at 1652008146058,
   :block/updated-at 1652008146058}
- {:block/name "money",
-  :block/created-at 1652007752303,
-  :block/updated-at 1652008882901}
- {:block/name "new page_ meaning",
-  :block/created-at 1652008758504,
-  :block/updated-at 1652008758504}
  {:block/name "now",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
- {:block/name "overlapping distribution",
-  :block/created-at 1651984085883,
-  :block/updated-at 1651984085883}
- {:block/name "perception",
-  :block/created-at 1652188978490,
-  :block/updated-at 1652188978490}
- {:block/name "peter theil",
-  :block/created-at 1652007072628,
-  :block/updated-at 1652007072628}
- {:block/name "poem",
-  :block/created-at 1651925806095,
-  :block/updated-at 1651925806095}
- {:block/name "principles",
-  :block/created-at 1652007743301,
-  :block/updated-at 1652008017412}
- {:block/name "racism",
-  :block/created-at 1652785736265,
-  :block/updated-at 1652785736265}
- {:block/name "reality",
-  :block/created-at 1652007752300,
-  :block/updated-at 1652007752300}
  {:block/name "reason for reality",
   :block/created-at 1652008215014,
   :block/updated-at 1652008215014}
- {:block/name "reciprocal altruism",
-  :block/created-at 1652189974316,
-  :block/updated-at 1652189990779}
- {:block/name "reciprocity",
-  :block/created-at 1652189990775,
-  :block/updated-at 1652189990775}
- {:block/name "rules to be wealthy",
-  :block/created-at 1652156800401,
-  :block/updated-at 1652156800401}
- {:block/name "socrates",
-  :block/created-at 1651925535451,
-  :block/updated-at 1651925535451}
- {:block/name "sunk cost",
-  :block/created-at 1652007752305,
-  :block/updated-at 1652239442451}
- {:block/name "super-organism",
-  :block/created-at 1652239133454,
-  :block/updated-at 1652239322035}
  {:block/name "todo",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
  {:block/name "understanding money",
   :block/created-at 1652156798409,
   :block/updated-at 1652931216218}
- {:block/name "understanding others",
-  :block/created-at 1652007752298,
-  :block/updated-at 1652007752298}
  {:block/name "universe",
   :block/created-at 1652008146058,
   :block/updated-at 1652008146058}
@@ -191,11 +83,5 @@
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
  {:block/name "waiting",
-  :block/created-at 1651901892369,
-  :block/updated-at 1651901892369}
- {:block/name "women",
-  :block/created-at 1651983976609,
-  :block/updated-at 1652157084427}
- {:block/name "zero to one",
-  :block/created-at 1652007061286, 
-  :block/updated-at 1652007441677}]
+  :block/created-at 1651901892369, 
+  :block/updated-at 1651901892369}]
