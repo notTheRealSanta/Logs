@@ -1,24 +1,69 @@
 [{:block/name "21st century human",
   :block/created-at 1651925913780,
   :block/updated-at 1651925913780}
+ {:block/name "[[competition]] & [[cooperation]]",
+  :block/created-at 1653809909684,
+  :block/updated-at 1653809909684}
  {:block/name "a",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
  {:block/name "b",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
+ {:block/name "behavioral economics",
+  :block/created-at 1653809198619,
+  :block/updated-at 1653809198619}
+ {:block/name "book",
+  :block/created-at 1653809145306,
+  :block/updated-at 1653809145306}
+ {:block/name "book/influence, the psychology of persuasion",
+  :block/created-at 1653809869384,
+  :block/updated-at 1653809942326}
+ {:block/name "book/predictably irrational",
+  :block/created-at 1653809997670,
+  :block/updated-at 1653810538791}
+ {:block/name "book/psychology of money",
+  :block/created-at 1653809145308,
+  :block/updated-at 1653809337602}
+ {:block/name "book/thinking fast and slow",
+  :block/created-at 1653810118069,
+  :block/updated-at 1653810128778}
+ {:block/name "book/zero to one",
+  :block/created-at 1653809499510,
+  :block/updated-at 1653809887803}
  {:block/name "c",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
+ {:block/name "capitalism",
+  :block/created-at 1653809587571,
+  :block/updated-at 1653809587571}
  {:block/name "card",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
+ {:block/name "carl jung",
+  :block/created-at 1653809909683,
+  :block/updated-at 1653809909683}
+ {:block/name "carl sagan",
+  :block/created-at 1653810606136,
+  :block/updated-at 1653810606136}
+ {:block/name "competition",
+  :block/created-at 1653809587574,
+  :block/updated-at 1653809587574}
  {:block/name "consciousness",
   :block/created-at 1652008146059,
   :block/updated-at 1652008654119}
  {:block/name "contents",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
+ {:block/name "contrast principle",
+  :block/created-at 1653809909690,
+  :block/updated-at 1653809909690}
+ {:block/name "cooperation",
+  :block/created-at 1653809909684,
+  :block/updated-at 1653809909684}
+ {:block/name "dan ariely",
+  :block/created-at 1653810028524,
+  :block/updated-at 1653810028524}
  {:block/name "daniel kahneman",
   :block/created-at 1651925913777,
   :block/updated-at 1651925913777}
@@ -28,18 +73,42 @@
  {:block/name "done",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
+ {:block/name "education",
+  :block/created-at 1653809587574,
+  :block/updated-at 1653809587574}
+ {:block/name "end-of-history illusion",
+  :block/created-at 1653809233771,
+  :block/updated-at 1653809233771}
+ {:block/name "entrepreneurship",
+  :block/created-at 1653809550652,
+  :block/updated-at 1653809550652}
  {:block/name "favorites",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
+ {:block/name "first principles",
+  :block/created-at 1653809587564,
+  :block/updated-at 1653809587564}
+ {:block/name "flammarion",
+  :block/created-at 1653809737078,
+  :block/updated-at 1653809796398}
+ {:block/name "future",
+  :block/created-at 1653809233769,
+  :block/updated-at 1653809233769}
+ {:block/name "history",
+  :block/created-at 1653809233769,
+  :block/updated-at 1653809233769}
  {:block/name "home",
   :block/created-at 1651926437254,
-  :block/updated-at 1652931898889}
+  :block/updated-at 1653809737078}
  {:block/name "homo sapiens",
   :block/created-at 1651925869168,
   :block/updated-at 1651925869168}
  {:block/name "in-progress",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
+ {:block/name "jason zweig",
+  :block/created-at 1653809233772,
+  :block/updated-at 1653809233772}
  {:block/name "later",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
@@ -58,12 +127,36 @@
  {:block/name "mind",
   :block/created-at 1652008146058,
   :block/updated-at 1652008146058}
+ {:block/name "money",
+  :block/created-at 1653809198617,
+  :block/updated-at 1653809198617}
  {:block/name "now",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
+ {:block/name "pale blue dot",
+  :block/created-at 1653810651835,
+  :block/updated-at 1653810684217}
+ {:block/name "peter thiel",
+  :block/created-at 1653809887803,
+  :block/updated-at 1653809887803}
+ {:block/name "psychology",
+  :block/created-at 1653809198618,
+  :block/updated-at 1653809198618}
+ {:block/name "quotes",
+  :block/created-at 1653809233759,
+  :block/updated-at 1653809233759}
  {:block/name "reason for reality",
   :block/created-at 1652008215014,
   :block/updated-at 1652008215014}
+ {:block/name "richard feynman",
+  :block/created-at 1653809233770,
+  :block/updated-at 1653809233770}
+ {:block/name "robert cialdini",
+  :block/created-at 1653809942326,
+  :block/updated-at 1653809942326}
+ {:block/name "sales",
+  :block/created-at 1653809942325,
+  :block/updated-at 1653809942325}
  {:block/name "todo",
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
@@ -83,5 +176,17 @@
   :block/created-at 1651901892369,
   :block/updated-at 1651901892369}
  {:block/name "waiting",
-  :block/created-at 1651901892369, 
-  :block/updated-at 1651901892369}]
+  :block/created-at 1651901892369,
+  :block/updated-at 1651901892369}
+ {:block/name "wealth",
+  :block/created-at 1653809233767,
+  :block/updated-at 1653809233767}
+ {:block/name "why do we think in relation",
+  :block/created-at 1653810185408,
+  :block/updated-at 1653810280975}
+ {:block/name "worldview",
+  :block/created-at 1653809233759,
+  :block/updated-at 1653809233759}
+ {:block/name "writing",
+  :block/created-at 1653810592142, 
+  :block/updated-at 1653810623387}]
