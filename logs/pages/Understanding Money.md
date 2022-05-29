@@ -15,7 +15,7 @@
 - Gold Standard
 	- For 5000 years gold fascinated humankind. It was because the scarcity of gold was universal that gave gold the property of storage of wealth.
 	- In 1971, the convertibility of the US dollar to gold was [abolished](https://en.wikipedia.org/wiki/Nixon_shock) giving rise to the [fiat money](https://www.investopedia.com/terms/f/fiatmoney.asp)
-	- The only thing that keeps the [[value]] of the dollar and therefore of most currencies is **mutual trust**.
+	- The only thing that keeps the [[Value]] of the dollar and therefore of most currencies is **mutual trust**.
 - Happiness
 	- Humans cannot be happy all their life
 		- without knowing sadness, one cannot understand happiness

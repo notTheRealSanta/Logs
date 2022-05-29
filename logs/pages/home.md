@@ -2,4 +2,5 @@
 - still moving things from my previous logs
 - start here...
 	- [[Meaning of Life]]
+	- [[Flammarion]]
 - this portion of the site was made using [logseq](https://github.com/logseq/logseq)
