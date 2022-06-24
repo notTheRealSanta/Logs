@@ -1,0 +1,5 @@
+- May be God is the one that acts through the collective object of consciousness, like the invisible hand in economics.
+- May be God is a force in the consciousness like how gravity is a force in the universe.
+- May be God is our search for reason itself.
+- May be God is everything we have yet to understand.
+- May be God is what we also call love.

@@ -1,0 +1,160 @@
+title:: "Book/Influence, the Psychology of Persuasion"
+
+- tags:: #Psychology #Sales #[[Robert Cialdini]]
+- Notes & Highlights :
+	- Weapons of Influence
+	  collapsed:: true
+		- Fixed-Action Pattern
+			- Turkey Mothers
+				- ![](https://farm3.staticflickr.com/2775/5859802089_7e4b01cd37.jpg)
+				- Turkey Mother's can only identify it's babies by the sound they make, ^^((18500412-c0c9-4933-967c-1fa12386fefa))^^. If the chick makes the sound then the mother will care for it, if not it will either ignore or sometimes kill it.
+					- "cheep-cheep"
+				- The sound is engraved in the biological makings of a Turkey mother so much so that even if a stuffed polecat ( which is the natural enemy/predator of a turkey ) makes the same sound, i.e "cheep-cheep". The mother Turkey will go from it's natural reaction of attacking the stuffed polecat to gathering it underneath her.
+					- ![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Polecat_in_denmark.jpg)
+			- Male Robin
+				- ![](https://www.allaboutbirds.org/guide/assets/photo/60412911-480px.jpg)
+				- Male robin will vigorously attack rival robin only with ^^redbreast feathers^^. It will also attack a clump of redbreast feathers. And it will ignore a robin with no redbreast features.
+				- same is the case for another species of bird, the bluethroat.
+			- Trigger Features
+				- The "redbreast features" and "cheep-cheep" are triggers features.
+				- ^^Trigger features^^ are effective in nature
+					- Turkey chick makes the sound "cheep-cheep" most of the times.
+				- ^^Trigger features^^ are not exclusive to lower animals.
+					- Implies to Humans too.
+			- Homo-Sapiens.
+				- "Because" - The Reason Condition
+					-
+						- ...experiment by Harvard social psychologist Ellen Langer. A well-known principle of human behavior says that when we ask someone to do us a favor we will be more successful if we provide a reason. **People simply like to have reasons for what they do. **
+						- Langer demonstrated this unsurprising fact by asking a small favor of people waiting in line to use a library copying machine: **Excuse me, I have five pages. May I use the Xerox machine because I'm in a rush?** The effectiveness of this request-plus-reason was nearly total: **94 percent **of those asked let her skip ahead of them in line.
+						- Compare this success rate to the results when she made the request only: **Excuse me, I have five pages. May I use the Xerox machine?** Under those circumstances, only **60 percent** of those asked com plied.
+						- At first glance, it appears that the crucial difference between the two requests was the additional information provided by the words "**because I'm in a rush.**”
+						- But a third type of request tried by Langer showed that this was not the case. It seems that it was not the whole series of words, but the first one, "because," that made the difference.
+						- Instead of including a real reason for compliance, Langer's third type of request used the word "because" and then, adding nothing new, merely restated the obvious: **Excuse me, I have five pages. May I use the Xerox machine because I have to make some copies?** The result was that once again nearly all (**93 percent**) agreed, even though no real reason, no new information, was added to justify their compliance.
+					- Even if there were no additional information added. By using "because", a narrative has been created, giving the illusion of reason.
+				- "Expensive=Better" #Psychology
+					- Correlation does not mean causation.
+					- We, homo-sapiens need shortcuts in this exceedly complex environment that we built for ourselves. And one of these shortcuts is to assume that "Expensive=Better" #Psychology.
+					-
+					- We are vulnerable to there automatic behaviour patterns hence must understand them.
+						- > “Until you make the unconscious conscious, it will direct your life and you will call it fate.” - [[Carl Jung]] #Quotes
+		- [[[[Competition]] & [[Cooperation]]]]
+			- Take, for example, the deadly trick played by the killer females of one genus of firefly 
+			  ) on the males of another firefly genus 
+			  ). Understandably, the Photinus males scrupulously avoid contact with the bloodthirsty Photuris females. But through centuries of experience, the female hunters have located a weakness in their prey-a special blinking courtship code by which members of the victims' species tell one another they are ready to mate. Somehow, the Photuris female has cracked the Photinus courtship code. By mimicking the flashing mating signals of her prey, the murderess is able to feast on the bodies of males whose triggered courtship tapes cause them to fly mechanically into death's, not love's, embrace.
+				- Photuris
+					- ![Photuris](https://upload.wikimedia.org/wikipedia/commons/5/52/Photuris_lucicrescens.jpg)
+				- Photinus
+					- ![](https://upload.wikimedia.org/wikipedia/commons/d/d6/Eastern_Firefly_%2814614518144%29.jpg)
+			- Insects seem to be the most severe exploiters of the automaticity of their prey; it is not uncommon to find their victims duped to death. But less uncompromising forms of exploitation occur as well. There is, for instance, a little fish, the saber-toothed blenny, that takes advantage of an unusual program of [[Cooperation]] worked out by members of two other species of fish. The cooperating fish form a Mutt and Jeff team consisting of a large grouper fish on the one hand and a much smaller type of fish on the other. The smaller fish serves as a cleaner to the larger one, which allows the cleaner to approach it and even enter its mouth to pick off fungus and other parasites that have attached themselves to the big fish's teeth or gills. It is a beautiful arrangement: The big grouper gets cleaned of harmful pests, and the cleaner fish gets an easy dinner. The larger fish normally devours any other small fish foolish enough to come close to it. But when the cleaner approaches, the big fish suddenly stops all movement and floats open-mouthed and nearly immobile in response to an undulating dance that the cleaner performs. This dance appears to be the trigger feature of the cleaner that activates the dramatic passivity of the big fish. It also provides the saber toothed blenny with an angle—a chance to take advantage of the cleaning ritual of the cooperators. The blenny will approach the large predator, copying the undulations of the cleaner's dance and automatically producing the tranquil, unmoving posture of the big fish. Then, true to its name, it will quickly rip a mouthful from the larger fish's flesh and dart away before its startled victim can re cover.
+				- saber-toothed blenny
+					- ![](https://smallscience.hbcse.tifr.res.in/wp-content/uploads/2016/10/cleaner-wrasse-2-300x200.jpeg)
+		- [[Contrast Principle]]
+			- Why does your hand feel cold being immersed into room-temperature water after being immersed into hot water?
+			- Why does your hand feel hot being immersed into room-temperature water after being immersed into cold water?
+			- Why do salesman show the pricer options first?
+			- Why does addon ( like in the auto market ) feel like small addition when in fact make up large part of the price?
+			- the greatest example of [[Contrast Principle]]
+				- Dear Mother and Dad: Since I left for college I have been remiss in writing and I am sorry for my thoughtlessness in not having written before. I will bring you up to date now, but before you read on, please sit down. You are not to read any further unless you are sitting down, okay? Well, then, I am getting along pretty well now. The skull fracture and the concussion I got when I jumped out the window of my dormitory when it caught on fire shortly after my arrival here is pretty well healed now. I only spent two weeks in the hospital and now I can see almost normally and only get those sick headaches once a day. Fortunately, the fire in the dormitory, and my jump, was witnessed by an attendant at the gas station near the dorm, and he was the one who called the Fire Department and the ambulance. He also visited me in the hospital and since I had nowhere to live because of the burnt out dormitory, he was kind enough to invite me to share his apartment with him. It's Really a basement room, but its kind of cute. He is a very fine boy and we have fallen deeply in love and are planning to get married. We haven't got the exact date yet, but it will be before my pregnancy begins to show.
+				  Yes, Mother and Dad, I am pregnant. I know how much you are looking forward to being grandparents and I know you will welcome the baby and give it the same love and devotion and tender care you gave me when I was a child. The reason for the delay in our marriage is that my boyfriend has a minor infection which prevents us from passing out premarital blood tests and I carelessly caught it from him.
+				  
+				  Now that I have brought you up to date, I want to tell you that there was no dormitory fire, I did not have a concussion or skull fracture, I was not in the hospital, I am not pregnant, I am not engaged, I am not infected, and there is no boyfriend. However, I am getting a 'D'' in American History, and an 'F'' in Chemistry and I want you to see those marks in their proper perspective.
+				  
+				  Your loving daughter,
+				  Sharon
+	- Reciprocation
+	  collapsed:: true
+		- We try to repay another person who has provided us.
+		- Prevails in every known society
+		- "We are human because our ancestors learned to share food and their skill in an honored network of obligation" - Richard Leakey, an archaeologist
+		- People who do not try to repay are pushed apart from society.
+		-
+			- Prof Dennis Regan, Cornell University
+			- fake experiment : 'art appreciation'
+			- Two people : Subject and Actor
+			- Condition A
+				- Actor does a small favor
+					- gets a coke when he went for a break
+					- gets one for the subject too.
+			- Condition B
+				- Actor behaves the same way but no favor
+			- Actor asks a favor to buy a 25c raffle ticket.
+			- number of tickets sold
+				- Condition A > Condition B
+				- twice as many
+			- Likeability
+				- Subjects were asked to rate their liking towards the Actor
+				- While overall the are correlated
+					- The more Actor likes Subject, the more tickets they bought.
+				- But, in Condition A this is NOT true
+				- Weather, they liked the Actor or not, they bought just as many tickets.
+		- The rule can trigger uninvited debts
+			- one becomes obliged to repay even if they didn't want the initial gift.
+		- The rule can trigger unfair exchanges
+			- small favor can turn to large repayment in most cases.
+			- Why do we return small favours with large ones.
+				- Reciprocal arrangements are vital to human social systems
+		- Reciprocal Concession
+			- People even reciprocate concession. When a person concedes, we reciprocate. As in when a salesman starts with a expensive product that which you wouldn’t be likely to get then ‘concedes’ to a cheaper product, we tend to think the latter product is better than what it actually is.
+			-
+				-
+				- Asking College student if you would like to chaperon juveniles without pay for a day at the zoo.
+				- The volunteering rate was ^^17%^^
+				- Asking college first for a even larger favor and then conceding to the zoo chaperon favor increased the volunteering rate to ^^50%^^
+			- If the initial large favor is unreasonable, then the concession is **not** reciprocated.
+			- Reciprocal concession often uses the [[Contrast Principle]].
+			- **Rejection-then-retreat** is powerful tool in negotiation.
+		- Conclusion
+			- People will return(reciprocate) your favor no matter how small your favor actually is.
+			- {{embed  
+			  ))}}
+	- Commitment and Consistency
+	  collapsed:: true
+		-
+			- Study by pair of Canadian psychologist
+			- People are more confident in their bets after just placing them than just before placing the bets.
+		- Understanding the power of consistency principle on human action.
+			- Lean Fistinger, Fritz Hieder, and Theodore Newcomb have viewed the desire for consistency as a central motivator of our behaviour.
+		-
+			- by Thomas Moriarty
+			- Two conditions at a beach
+				- Condition A
+					- Actor places his beach blanket and a portable radio near a subject.
+					- Actor goes for a stroll.
+					- Few minutes later
+					- Second Actor pretends to be a thief and steals the blanket and radio.
+				- Condition B
+					- Actor places his beach blanket and a portable radio near a subject.
+					- Actor goes for a stroll.
+					- **Actor asks the Subject to watch his belongings. 'watch my things' **
+					- Few minutes later
+					- Second Actor pretends to be a thief and steals the blanket and radio.
+			- ^^20%^^ of Subjects ( 4 out of 20 ) put themselves in the harm way of a thief in condition A.
+			- ^^95%^^ of Subjects confronted the thief in condition B
+				- desire to stay consistent with what they have been asked to do.
+		- The desire to stay consistent is subconscious
+			- There is no expedient to which a man will not resort to avoid the real labor of thinking = Sir Joshua Reynolds #Quotes
+			- **Automatic consistency** [mindless consistency]
+				- excusing ourselves from having to think too much.
+				- There are disturbing things that we rather not realize
+				- it is preprogrammed in our evolution as social beings.
+				- Automatic consistency can be safe hiding place from troubling realizations.
+				- Sealed within the fortress walls of rigid consistency, we can be impervious to sieges of reason #Quotes
+				- Automatic Consistency is a shield against thought itself.
+		- American prisoners made to collaborate by Chinese during the korean war
+			- Chinese first start by making prisoner say sentences like 'America is not perfect', 'In Communism, unemployment is not a problem' etc.
+			- Then asked them to write [essay] on it
+			- Then published those essay to other American inmates and soldiers in south Korea.
+			- This made them a 'collaborator' in their own eyes because of the urge to stay consistent.
+			- Then made them reveal more information.
+		-
+			- Researcher went door-to-door asking to put of a large [public service] billboard in their lawn saying 'Drive Carefully'
+			- Condition A
+				- Only ^^17%^^ accepted
+			- Condition B
+				- To another set of people, two week earlier a similar [small] request was made for a small sign saying 'be a safe driver', most agreed.
+				- when asked for the large billboard.
+				- ^^76%^^ agreed
+			- Condition C
+				- A variation of Condition B but the small sign said 'keeping California Beautiful'.
+				- ^^~50%^^ agreed to the billboard.
+			- Starting with a small request can involve the power of commitment and increase compliance.

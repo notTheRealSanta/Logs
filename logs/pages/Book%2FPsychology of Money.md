@@ -1,0 +1,109 @@
+title:: Book/Psychology of Money
+
+- tags:: #Money #Psychology #[[Behavioral Economics]]
+- Notes & Highlights:
+	- > “A genius is the man who can do the average thing when everyone else around him is losing his mind.” —Napoleon #Quotes
+	- The premise of this book is that doing well with money has a little to do with how smart you are and a lot to do with how you behave. And behavior is hard to teach, even to really smart people.
+	- Money is everywhere, it affects all of us, and confuses most of us. Everyone thinks about it a little differently. It offers lessons on things that apply to many areas of life, like risk, confidence, and happiness. Few topics offer a more powerful magnifying glass that helps explain why people behave the way they do than money. It is one of the greatest shows on Earth.
+	- Physics isn’t controversial. It’s guided by laws. Finance is different. It’s guided by people’s behaviors. And how I behave might make sense to me but look crazy to you.
+	- > “History never repeats itself; man always does.” - Voltaire #Quotes
+		- It applies so well to how we behave with money.
+	- Everyone has their own unique experience with how the world works. And what you’ve experienced is more compelling than what you learn second-hand. #Worldview
+	- Your personal experiences with money make up maybe 0.00000001% of what’s happened in the world, but maybe 80% of how you think the world works.
+	- Studying history makes you feel like you understand something. But until you’ve lived through it and personally felt its consequences, you may not understand it enough to change your behavior.
+	- We all think we know how the world works. But we’ve all only experienced a tiny sliver of it.
+	- The economists wrote: “Our findings suggest that individual investors’ willingness to bear risk depends on personal history.”
+	- Every decision people make with money is justified by taking the information they have at the moment and plugging it into their unique mental model of how the world works.
+	- And that idea—“What you’re doing seems crazy but I kind of understand why you’re doing it.”—uncovers the root of many of our financial decisions.
+	- We all do crazy stuff with money, because we’re all relatively new to this game and what looks crazy to you might make sense to me. But no one is crazy—we all make decisions based on our own unique experiences that seem to make sense to us in a given moment.
+	- ^^Luck and risk are siblings.^^ They are both the reality that every outcome in life is guided by forces other than individual effort.
+		- Risk and reward are two faces of the same coin.
+	- Bill Gates experienced one in a million luck by ending up at Lakeside. Kent Evans experienced one in a million risk by never getting to finish what he and Gates set out to achieve. The same force, the same magnitude, working in opposite directions.
+	- Years ago I asked economist Robert Shiller, who won the Nobel Prize in economics, “What do you want to know about investing that we can’t know?” “The exact role of luck in successful outcomes,” he answered.
+	- You can easily imagine Vanderbilt’s story turning out much different—an outlaw whose young company collapsed under court order.
+	- “The customer is always right” and “customers don’t know what they want” are both accepted business wisdom.
+	- The line between “inspiringly bold” and “foolishly reckless” can be a millimeter thick and only visible with hindsight.
+	- Risk and luck are doppelgängers.
+	- After my son was born, I wrote him a letter that said, in part: Some people are born into families that encourage education; others are against it. Some are born into flourishing economies encouraging of entrepreneurship; others are born into war and destitution. I want you to be successful, and I want you to earn it. But realize that not all success is due to hard work, and not all poverty is due to laziness. Keep this in mind when judging people, including yourself.
+	- Nothing is as good or as bad as it seems.
+	- There is no reason to risk what you have and need for what you don’t have and don’t need.
+	- 1. The hardest financial skill is getting the goalpost to stop moving.
+		- But it’s one of the most important. If expectations rise with results there is no logic in striving for more because you’ll feel the same after putting in extra effort.
+		- Happiness, as it’s said, is just results minus expectations.
+	- 2. Social comparison is the problem here.
+		- The point is that the ceiling of social comparison is so high that virtually no one will ever hit it. Which means it’s a battle that can never be won, or that the only way to win is to not fight to begin with—to accept that you might have enough, even if it’s less than those around you.
+		- “Enough” is not too little.
+	- 4. There are many things never worth risking, no matter the potential gain.
+		- lead to ridiculous, impractical numbers. And so when we are studying why something got to become as powerful as it has—why an ice age formed, or why Warren Buffett is so rich—we often overlook the key drivers of success.
+	- so when we are studying why something got to become as powerful as it has—why an ice age formed, or why Warren Buffett is so rich—we often overlook the key drivers of success.
+	- If you were a technology optimist in the 1950s you may have predicted that practical storage would become 1,000 times larger. Maybe 10,000 times larger, if you were swinging for the fences. Few would have said “30 million times larger within my lifetime.” But that’s what happened.
+	- Getting money is one thing. Keeping it is another.
+	- Capitalism is hard. But part of the reason this happens is because getting money and keeping money are two different skills.
+	- Capitalism is hard. But part of the reason this happens is because getting money and keeping money are two different skills. Getting money requires taking risks, being optimistic, and putting yourself out there. But keeping money requires the opposite of taking risk. It requires humility, and fear that what you’ve made can be taken away from you just as fast. It requires frugality and an acceptance that at least some of what you’ve made is attributable to luck, so past success can’t be relied upon to repeat indefinitely.
+	- Nassim Taleb put it this way: “Having an ‘edge’ and surviving are two different things: the first requires the second. You need to avoid ruin. At all costs.”
+	- 1. More than I want big returns, I want to be financially unbreakable. And if I’m unbreakable I actually think I’ll get the biggest returns, because I’ll be able to stick around long enough for compounding to work wonders.
+	- 2. Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.
+		- What’s the saying? You plan, God laughs.
+		- A plan is only useful if it can survive reality.
+		- The more you need specific elements of a plan to be true, the more fragile your financial life becomes.
+		- Room for error—often called margin of safety—is one of the most underappreciated forces in finance.
+		- It’s different from being conservative. Conservative is avoiding a certain level of risk. Margin of safety is raising the odds of success at a given level of risk by increasing your chances of survival.
+	- 3. A barbelled personality—optimistic about the future, but paranoid about what will prevent you from getting to the future—is vital.
+		- Destruction in the face of progress is not only possible, but an efficient way to get rid of excess.
+		- A mindset that can be paranoid and optimistic at the same time is hard to maintain, because seeing things as black or white takes less effort than accepting nuance.
+		- A mindset that can be paranoid and optimistic at the same time is hard to maintain, because seeing things as black or white takes less effort than accepting nuance. But you need short-term paranoia to keep you alive long enough to exploit long-term optimism.
+	- A lot of things in business and investing work this way. Long tails—the farthest ends of a distribution of outcomes—have tremendous influence in finance, where a small number of events can account for the majority of outcomes.
+	- A good definition of an investing genius is the man or woman who can do the average thing when all those around them are going crazy. Tails drive everything.
+	- When you accept that tails drive everything in business, investing, and finance you realize that it’s normal for lots of things to go wrong, break, fail, and fall.
+	- When we pay special attention to a role model’s successes we overlook that their gains came from a small percent of their actions.
+	- “It’s not whether you’re right or wrong that’s important,” George Soros once said, “but how much money you make when you’re right and how much you lose when you’re wrong.” You can be wrong half the time and still make a fortune.
+	- Controlling your time is the highest dividend money pays.
+	- THE HIGHEST FORM of wealth is the ability to wake up every morning and say, “I can do whatever I want today.”
+	- People want to become wealthier to make them happier. Happiness is a complicated subject because everyone’s different. But if there’s a common denominator in happiness—a universal fuel of joy—it’s that people want to control their lives.
+	- Angus Campbell was a psychologist at the University of Michigan.
+		- Campbell wanted to know what made people happy.
+		- starts by pointing out that people are generally happier than many psychologists assumed.
+		- you couldn’t necessarily group them by income, or geography, or education,
+		- The most powerful common denominator of happiness was simple. Campbell summed it up: Having a strong sense of controlling one’s life is a more dependable predictor of positive feelings of wellbeing than any of the objective conditions of life we have considered.
+	- Money’s greatest intrinsic value—and this can’t be overstated— is its ability to give you control over your time.
+	- When asked about his silence during meetings, Rockefeller often recited a poem:
+		- A wise old owl lived in an oak, The more he saw the less he spoke, The less he spoke, the more he heard, Why aren’t we all like that wise old bird?
+	- which means our days don’t end when we clock out and leave the factory. We’re constantly working in our heads, which means it feels like work never ends.
+	- When you see someone driving a nice car, you rarely think, “Wow, the guy driving that car is cool.” Instead, you think, “Wow, if I had that car people would think I’m cool.” Subconscious or not, this is how people think.
+	- “You might think you want an expensive car, a fancy watch, and a huge house. But I’m telling you, you don’t. What you want is respect and admiration from other people, and you think having expensive stuff will bring it. It almost never does—especially from the people you want to respect and admire you.”
+	- [[Wealth]] is what you don’t see.
+	- When most people say they want to be a millionaire, what they might actually mean is “I’d like to spend a million dollars.” And that is literally the opposite of being a millionaire.
+	- “There is no faster way to feel rich than to spend lots of money on really nice things. But the way to be rich is to spend money you have, and to not spend money you don’t have. It’s really that simple.”
+		- It is excellent advice, but it may not go far enough. The only way to be wealthy is to not spend the money that you do have. It’s not just the only way to accumulate wealth; it’s the very definition of wealth.
+	- Rich is a current income.
+		- But wealth is hidden. It’s income not spent.
+	- Past a certain level of income people fall into three groups: Those who save, those who don’t think they can save, and those who don’t think they need to save.
+	- The first idea—simple, but easy to overlook—is that building wealth has little to do with your income or investment returns, and lots to do with your savings rate.
+	- Personal savings and frugality—finance’s conservation and efficiency—are parts of the money equation that are more in your control and have a 100% chance of being as effective in the future as they are today.
+	- Learning to be happy with less money creates a gap between what you have and what you want
+	- So people’s ability to save is more in their control than they might think.
+	- Savings can be created by spending less. You can spend less if you desire less. And you will desire less if you care less about what others think of you.
+	- Saving is a hedge against life’s inevitable
+	- Reasonable > Rational
+		- Aiming to be mostly reasonable works better than trying to be coldly rational.
+	- But Wagner-Jauregg is one of the only doctors in history who not only recognized fever’s role in fighting infection, but also prescribed it as a treatment.
+	- It’s hard to wake up in the morning telling yourself you have no clue what the future holds, even if it’s true.
+	- [[History]] is the study of change, ironically used as a map of the [[Future]].
+		- “Things that have never happened before happen all the time.”
+	- A trap many investors fall into is what I call “historians as prophets” fallacy: An overreliance on past data as a signal to future conditions in a field where innovation and change are the lifeblood of progress.
+	- [[Richard Feynman]], the great physicist, once said, “Imagine how much harder physics would be if electrons had feelings.” Well, investors have feelings. Quite a few of them. That’s why it’s hard to predict what they’ll do next based solely on what they did in the past.
+	- The cornerstone of economics is that things change over time, because the invisible hand hates anything staying too good or too bad indefinitely.
+	- This is not a failure of analysis. It’s a failure of imagination. Realizing the future might not look anything like the past is a special kind of skill that is not generally looked highly upon by the financial forecasting community.
+	- The correct lesson to learn from surprises is that the world is surprising. Not that we should use past surprises as a guide to future boundaries; that we should use past surprises as an admission that we have no idea what might happen next.
+	- That doesn’t mean we should ignore history when thinking about money. But there’s an important nuance: The further back in history you look, the more general your takeaways should be.
+	- Margin of safety—you can also call it room for error or redundancy—is the only effective way to safely navigate a world that is governed by odds, not certainties. And almost everything related to money exists in that kind of world.
+	- Forecasting with precision is hard.
+	- An underpinning of psychology is that people are poor forecasters of their future selves.
+	- Only 27% of college grads have a job related to their major, according to the Federal Reserve.46 Twenty-nine percent of stay-at-home parents have a college degree.
+	- Long-term financial planning is essential. But things change— both the world around you, and your own goals and desires.
+	- It is one thing to say, “We don’t know what the future holds.” It’s another to admit that you, yourself, don’t know today what you will even want in the future.
+	- The [[End-of-history illusion]] is what psychologists call the tendency for people to be keenly aware of how much they’ve changed in the past, but to underestimate how much their personalities, desires, and goals are likely to change in the future.
+	- Charlie Munger says the first rule of compounding is to never interrupt it unnecessarily.
+	- Compounding works best when you can give a plan years or decades to grow. This is true for not only savings but careers and relationships.
+	- “Nothing amazed me more about [Danny]([[Daniel Kahneman]]) than his ability to detonate what we had just done,” [Zweig](Jason Zweig) wrote.
+		- “When I asked Danny how he could start again as if we had never written an earlier draft,” Zweig continued, “he said the words I’ve never forgotten: ^^‘I have no sunk costs.’^^ ”
