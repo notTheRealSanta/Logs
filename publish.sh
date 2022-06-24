@@ -9,4 +9,4 @@ cp cp/Flammarion.png _build/static/img/logo.png
 
 git add .
 git commit -m "`date`"
-git subtree push --prefix _build origin gh-pages
+git subtree push --prefix=_build origin gh-pages
